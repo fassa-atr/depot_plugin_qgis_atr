@@ -19,4 +19,22 @@
      <download_url> https://fassababacar.github.io/depot_plugin_qgis_atr/Controle_Des_Design.zip </download_url>
  </pyqgis_plugin> 
  
+ <pyqgis_plugin  name = "splicy_plugin"  version = "0.3.2" > 
+     <description> </description> 
+     <homepage> https://fassababacar.github.io/depot_plugin_qgis_atr/ </homepage> 
+     <qgis_minimum_version> 2.4 </qgis_minimum_version> 
+     <nom_fichier> splicy_plugin.zip </nom_fichier> 
+     <nom_auteur> splicy > </nom_auteur> 
+     <download_url> https://fassababacar.github.io/depot_plugin_qgis_atr/splicy_plugin.zip </download_url>
+ </pyqgis_plugin> 
+ 
+ <pyqgis_plugin  name = "splicy_plugin_qgis2n"  version = "0.3.2" > 
+     <description> </description> 
+     <homepage> https://fassababacar.github.io/depot_plugin_qgis_atr/ </homepage> 
+     <qgis_minimum_version> 2.4 </qgis_minimum_version> 
+     <nom_fichier> splicy_plugin_qgis2.0.3.2.zip </nom_fichier> 
+     <nom_auteur> splicy > </nom_auteur> 
+     <download_url> https://fassababacar.github.io/depot_plugin_qgis_atr/splicy_plugin_qgis2.0.3.2.zip </download_url>
+ </pyqgis_plugin> 
+ 
 </plugins>
