@@ -3,20 +3,20 @@
 
  <pyqgis_plugin  name = "SwapVectorDirection"  version = "0.1" > 
      <description> Convertissez les fichiers dentre en fichiers de formes FiberPlanIT en sortie </description> 
-     <homepage> https://github.com/fassa-atr/depot_plugin_qgis_atr </homepage> 
+     <homepage> https://fassababacar.github.io/depot_plugin_qgis_atr/ </homepage> 
      <qgis_minimum_version> 3.4 </qgis_minimum_version> 
      <nom_fichier> SwapVectorDirection.zip </nom_fichier> 
      <nom_auteur> FASSA > </nom_auteur> 
-     <download_url> http://fassa-atr.github.io/depot_plugin_qgis_atr/SwapVectorDirection.zip </download_url>
+     <download_url> https://fassababacar.github.io/depot_plugin_qgis_atr/SwapVectorDirection.zip </download_url>
  </pyqgis_plugin> 
  
  <pyqgis_plugin  name = "Controle_Des_Design"  version = "0.1" > 
      <description> </description> 
-     <homepage> https://github.com/fassa-atr/depot_plugin_qgis_atr </homepage> 
+     <homepage> https://fassababacar.github.io/depot_plugin_qgis_atr/ </homepage> 
      <qgis_minimum_version> 3.4 </qgis_minimum_version> 
      <nom_fichier> Controle_Des_Design.zip </nom_fichier> 
      <nom_auteur> FASSA > </nom_auteur> 
-     <download_url> https://fassa-atr.github.io/depot_plugin_qgis_atr/Controle_Des_Design.zip </download_url>
+     <download_url> https://fassababacar.github.io/depot_plugin_qgis_atr/Controle_Des_Design.zip </download_url>
  </pyqgis_plugin> 
  
 </plugins>
